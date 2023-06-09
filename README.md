@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I am Johnny Cappetta, a 23 year old/recent Purdue University mechanical engineer graduate turned software engineer. Throughout college, I was unsure what I wanted to do with my life, so I picked one of the most versatile engineering degrees, mechanical engineering. With the guidance of friends and family, I became interested in software engineering and programming. 
+
+I am excited to see what software has in store for me.
+I am currently working for JPMorgan Chase as a software engineer in their Tech Connect program. I am looking forward to learning more about frontend/backend that will hopefully guide my career path. 
+
+I will be adding to Git throughout my career as I take on new and meaningful challenges and projects.
